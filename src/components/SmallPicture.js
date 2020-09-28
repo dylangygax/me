@@ -9,7 +9,7 @@ const Wrapper = styled.div`
 `
 const Image = styled.div`
     width: 30vw;
-    height: 20vw;
+    height: 15vw;
     margin: 0 7vw;
     border: 5px solid darkgray;
     border-radius: 10px;

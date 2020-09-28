@@ -11,19 +11,19 @@ import Grid from './components/Grid'
 const projects = [
     {
         title: 'RCT Island',
-        image: 'https://www.nedesigns.com/uploads/screens/6469/6469.png',
+        image: 'https://i.imgur.com/zL3xzIh.png',
         story: 'bottom text',
         link: 'https://github.com/dylangygax/rct-forum-api'
     },
     {
         title: 'Bander',
-        image: 'https://www.nedesigns.com/uploads/screens/6469/6469.png',
+        image: 'https://i.imgur.com/bQd23Ev.png',
         story: 'bottom text',
         link: 'https://github.com/dylangygax/bander-api'
     },
     {
         title: 'The Table',
-        image: 'https://www.nedesigns.com/uploads/screens/6469/6469.png',
+        image: 'https://i.imgur.com/2a0p63v.png',
         story: 'bottom text',
         link: 'http://thetabletopsessions.herokuapp.com/'
     },
