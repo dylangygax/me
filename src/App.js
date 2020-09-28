@@ -44,6 +44,10 @@ function App() {
         <p className='statement'>Software engineer with a passion for tackling large projects from their most abstract concepts to their tiniest details. A background in teaching helps me to be a clear communicator and I am laser focused on creating the best experience for both collaborators and end users.</p>
         <h3>My Projects</h3>
         <Grid content={projects}/>
+        <h3>Contact</h3>
+        <p>Email me at Dylan.Gygax@ncf.edu</p>
+        <a href='https://www.linkedin.com/in/dylan-gygax/'>LinkedIn</a><br />
+        <a href='https://github.com/dylangygax'>Github</a><br /> 
     </div>
   )
 }
